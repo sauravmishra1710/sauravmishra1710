@@ -11,7 +11,8 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 - :books: :notebook: I’m currently learning Python GUI, Deep Learning and Computer Vision for Medicine & Healthcare Domain, continuously upgrading and enhancing skills on Algorithms. :nerd_face: 🐱‍👓
 
 
-- :computer: Intrested in AI (Deep Learning & Computer Vision) for Medicine and Healthcare 👨🏼‍💻
+- :computer: Intrested in ***AI (Deep Learning & Computer Vision) for Medicine and Healthcare*** 👨🏼‍💻
+<span style="color:red">***AI (Deep Learning & Computer Vision) for Medicine and Healthcare***</span>.
 - 👯 Open to collaborate on AI for Medicine and Healthcare
 
 
