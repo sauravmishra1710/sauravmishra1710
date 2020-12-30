@@ -17,13 +17,20 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 
 - 📫 Reach me @ :email: ...
     - LinkedIn @ https://www.linkedin.com/in/saurav-mishra1710/
-    - Kaggle @ https://www.kaggle.com/sauravmishra1710
-    - Codewars @ https://www.codewars.com/users/sauravmishra1710
     - Email @ saurav.mishra@live.com 
     - Twitter @ https://twitter.com/forevrManUtd
+    - Kaggle @ https://www.kaggle.com/sauravmishra1710
+    - Codewars @ https://www.codewars.com/users/sauravmishra1710
 
 
-- ⚡ Fun fact: Enthusiast Photographer :camera: | Manchester United fan boy :soccer: |
+- ⚡ Fun fact: 
+
+    - Enthusiast Photographer :camera:
+
+        - :camera: https://www.instagram.com/saurav.mishra1710/
+        - :camera: https://www.instagram.com/flashyfilters.saurav1710/
+
+    - :soccer: Manchester United Fan Boy :soccer:
 
 
 👨‍💻 Repositories I created recently - 
