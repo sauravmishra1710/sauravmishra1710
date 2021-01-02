@@ -31,7 +31,7 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
         - :camera: https://www.instagram.com/saurav.mishra1710/
         - :camera: https://www.instagram.com/flashyfilters.saurav1710/
 
-    - :soccer: Manchester United Fan Boy :soccer:
+    - :soccer: **Manchester United** Fan Boy :soccer:
 
 
 👨‍💻 Repositories I created recently - 
