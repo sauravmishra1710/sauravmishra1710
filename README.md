@@ -21,7 +21,6 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
     - Email @ saurav.mishra@live.com 
     - Twitter @ https://twitter.com/forevrManUtd
     - Kaggle @ https://www.kaggle.com/sauravmishra1710
-    - Codewars @ https://www.codewars.com/users/sauravmishra1710
 
 
 - ⚡ Fun fact: 
