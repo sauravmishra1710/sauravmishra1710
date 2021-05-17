@@ -4,7 +4,6 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 
 - :computer: I’m currently working on: 👨🏼‍💻
 
-    - Python GUI application to detect Covid-19 from Chest X-Ray images.
     - A SNAPSHOT ENSEMBLING model to detect malarial parasites in red blood cell images. An implementation of the paper titled ***"Snapshot Ensembles: Train 1, get M for free"*** @ https://arxiv.org/abs/1704.00109
     
     
@@ -35,6 +34,7 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 
 👨‍💻 Repositories I created recently - 
 
+  - U-Net---Biomedical-Image-Segmentation @ https://github.com/sauravmishra1710/U-Net---Biomedical-Image-Segmentation
   - 100 Days of Coding @ https://github.com/sauravmishra1710/100-Days-of-Code
   - Tic-Tac-Toe with PySimpleGUI @ https://github.com/sauravmishra1710/Tic-Tac-Toe-using-PySimpleGUI
   - Notepad using PySimpleGUI @ https://github.com/sauravmishra1710/NotepadPy-using-PySimpleGUI
