@@ -1,6 +1,6 @@
 ### Hi there 🙋‍♂️ 👨🏼‍💻
 
-I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the healthcare IT domain. Very much keen to work & contribute to the AI and Computer Vision aspect in the Healthcare domain. :construction_worker: :hospital:
+I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the healthcare IT domain. Very much keen to work & contribute to the AI and Computer Vision space in the Healthcare domain. :construction_worker: :hospital:
 
 - :computer: I’m currently working on: 👨🏼‍💻
 
