@@ -2,11 +2,6 @@
 
 I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the healthcare IT domain. Very much keen to work & contribute to the AI and Computer Vision space in the Healthcare domain. :construction_worker: :hospital:
 
-- :computer: I’m currently working on: 👨🏼‍💻
-
-    - A SNAPSHOT ENSEMBLING model to detect malarial parasites in red blood cell images. An implementation of the paper titled ***"Snapshot Ensembles: Train 1, get M for free"*** @ https://arxiv.org/abs/1704.00109
-    
-    
 - :books: :notebook: I’m currently learning Python GUI, Deep Learning and Computer Vision for Medicine & Healthcare Domain, continuously upgrading and enhancing skills on Algorithms. :nerd_face: 🐱‍👓
 
 
