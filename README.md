@@ -11,20 +11,33 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 
 
 - 📫 Reach me @ :email: ...
-    - LinkedIn @ https://www.linkedin.com/in/saurav-mishra1710/
-    - Email @ saurav.mishra@live.com 
-    - Twitter @ https://twitter.com/forevrManUtd
-    - Kaggle @ https://www.kaggle.com/sauravmishra1710
+
+    <a href="" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/mail-1008.svg" height="30" width="40" /></a>
+ @ saurav.mishra@live.com 
+ 
+    <a href="https://www.kaggle.com/sauravmishra1710" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/kaggle_icon.svg" height="30" width="40" /></a>
+@ https://www.kaggle.com/sauravmishra1710
+    
+
+    <a href="https://twitter.com/forevrManUtd" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/twitter.svg" alt="@forevrManUtd" height="30" width="40" /></a>
+@ https://twitter.com/forevrManUtd
+    
+    <a href="https://www.linkedin.com/in/saurav-mishra1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/linkedin.svg" alt="https://www.linkedin.com/in/saurav-mishra1710/" height="30" width="40" /></a>
+@ https://www.linkedin.com/in/saurav-mishra1710/
+
 
 
 - ⚡ Fun fact: 
 
-    - Enthusiast Photographer :camera:
+    :camera: Enthusiast Photographer :camera:
 
-        - :camera: https://www.instagram.com/saurav.mishra1710/
-        - :camera: https://www.instagram.com/flashyfilters.saurav1710/
+    <a href="https://www.instagram.com/saurav.mishra1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>
+@ https://www.instagram.com/saurav.mishra1710/
+        
+    <a href="https://www.instagram.com/flashyfilters.saurav1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>
+@ https://www.instagram.com/flashyfilters.saurav1710/
 
-    - :soccer: **Manchester United** Fan Boy :soccer:
+   :soccer: **Manchester United** Fan Boy :soccer:
 
 
 👨‍💻 Repositories I created recently - 
