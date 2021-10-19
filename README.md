@@ -10,6 +10,8 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 
 ### 👨‍💻 Recently Created Repositories 👨‍💻
 
+  - Batch-Normalization-and-Internal-Covariate-Shift @ https://github.com/sauravmishra1710/Batch-Normalization-and-Internal-Covariate-Shift
+  - Inception---Going-Deeper-with-Convolutions @ https://github.com/sauravmishra1710/Inception---Going-Deeper-with-Convolutions
   - UNet++ - Nested UNet for Bio-Meidcal Image Segmentation of Brain Tumors @ https://github.com/sauravmishra1710/UNet-Plus-Plus---Brain-Tumor-Segmentation
   - Bio-Medical Image Analysis using DICOMs @ https://github.com/sauravmishra1710/Bio-Medical-Image-Analysis-with-DICOMs
   - EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM @ https://github.com/sauravmishra1710/EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM
