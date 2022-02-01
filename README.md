@@ -9,8 +9,8 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 - 👯 Open to collaborate on ***AI for Medicine and Healthcare.***
 
 ### Peer Reviewed Paper Publications
-  1. Malaria Parasite Detection using Efficient Neural Ensembles. The paper is published as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics. [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/147/75), [Python Source Code](https://github.com/sauravmishra1710/Malaria-Detection-Using-Deep-Learning-Techniques)
-  2. Artificial Intelligence: A Review of Progress and Prospects in Medicine and Healthcare. The paper is published as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics. [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/180/80)
+  1. **Malaria Parasite Detection using Efficient Neural Ensembles**. The paper is published as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics. [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/147/75), [Python Source Code](https://github.com/sauravmishra1710/Malaria-Detection-Using-Deep-Learning-Techniques)
+  2. **Artificial Intelligence: A Review of Progress and Prospects in Medicine and Healthcare**. The paper is published as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics. [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/180/80)
 
 ### 👨‍💻 Recently Created Repositories 👨‍💻
 
