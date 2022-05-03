@@ -32,25 +32,14 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
  @ saurav.mishra@live.com 
  
 <a href="https://www.kaggle.com/sauravmishra1710" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/kaggle_icon.svg" height="30" width="40" /></a>
-@ https://www.kaggle.com/sauravmishra1710
-
 <a href="https://twitter.com/forevrManUtd" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/twitter.svg" alt="@forevrManUtd" height="30" width="40" /></a>
-@ https://twitter.com/forevrManUtd
-    
 <a href="https://www.linkedin.com/in/saurav-mishra1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/linkedin.svg" alt="https://www.linkedin.com/in/saurav-mishra1710/" height="30" width="40" /></a>
-@ https://www.linkedin.com/in/saurav-mishra1710/
+<a href="https://www.instagram.com/saurav.mishra1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>        <a href="https://www.instagram.com/flashyfilters.saurav1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>
 
 
  ### ⚡ Fun fact ⚡
 
 :camera: Enthusiast Photographer :camera:
 
-<a href="https://www.instagram.com/saurav.mishra1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>
-@ https://www.instagram.com/saurav.mishra1710/
-        
-<a href="https://www.instagram.com/flashyfilters.saurav1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>
-@ https://www.instagram.com/flashyfilters.saurav1710/
-
-<a href="" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/manchester-united.svg" alt="https://www.linkedin.com/in/saurav-mishra1710/" height="30" width="40" /></a> 
-:soccer: **Manchester United** Fan Boy :soccer: 
+<a href="" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/manchester-united.svg" alt="" height="30" width="40" /></a> :soccer: **Manchester United** Fan Boy :soccer: <a href="" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/manchester-united.svg" alt="" height="30" width="40" /></a> 
 
