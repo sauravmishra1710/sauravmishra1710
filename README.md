@@ -16,7 +16,7 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
  -- [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/180/80)
   3. **Malaria Parasite Detection using Efficient Neural Ensembles**. The paper is published in the October 2021 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.<br>
  -- [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/147/75) <br>
- -- [Python Source Code](https://github.com/sauravmishra1710/Malaria-Detection-Using-Deep-Learning-Techniques)
+ -- [Python Source Code](https://github.com/sauravmishra1710/Heart-Failure-Condition-And-Survival-Analysis)
 
 ### 👨‍💻 Recently Created Repositories 👨‍💻
 
