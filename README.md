@@ -9,10 +9,12 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 - 👯 Open to collaborate on ***AI for Medicine and Healthcare.***
 
 ### Peer Reviewed Publications
-  
-  1. **Artificial Intelligence: A Review of Progress and Prospects in Medicine and Healthcare**. The paper is published in the January 2022 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.<br>
+  1. **A Comparative Study for Time-to-Event Analysis and Survival Prediction for Heart Failure Condition using Machine Learning Techniques.** The paper is published in the July 2022 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.<br>
+  -- [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/225/94) <br>
+  -- [Python Source Code](https://github.com/sauravmishra1710/Malaria-Detection-Using-Deep-Learning-Techniques)
+  2. **Artificial Intelligence: A Review of Progress and Prospects in Medicine and Healthcare**. The paper is published in the January 2022 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.<br>
  -- [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/180/80)
-  2. **Malaria Parasite Detection using Efficient Neural Ensembles**. The paper is published in the October 2021 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.<br>
+  3. **Malaria Parasite Detection using Efficient Neural Ensembles**. The paper is published in the October 2021 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.<br>
  -- [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/147/75) <br>
  -- [Python Source Code](https://github.com/sauravmishra1710/Malaria-Detection-Using-Deep-Learning-Techniques)
 
