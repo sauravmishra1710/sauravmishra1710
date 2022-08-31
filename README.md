@@ -20,6 +20,7 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 
 ### 👨‍💻 Recently Created Repositories 👨‍💻
 
+  - Heart Failure Survival Analysis & Prediction @ https://github.com/sauravmishra1710/Heart-Failure-Condition-And-Survival-Analysis
   - Batch-Normalization-and-Internal-Covariate-Shift @ https://github.com/sauravmishra1710/Batch-Normalization-and-Internal-Covariate-Shift
   - Inception---Going-Deeper-with-Convolutions @ https://github.com/sauravmishra1710/Inception---Going-Deeper-with-Convolutions
   - UNet++ - Nested UNet for Bio-Meidcal Image Segmentation of Brain Tumors @ https://github.com/sauravmishra1710/UNet-Plus-Plus---Brain-Tumor-Segmentation
@@ -28,7 +29,6 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
   - U-Net---Biomedical-Image-Segmentation @ https://github.com/sauravmishra1710/U-Net---Biomedical-Image-Segmentation
   - Covid-19 Detection using Chest X-Rays @ https://github.com/sauravmishra1710/Covid-19-Detection-using-Deep-Learning
   - Face Mask Detection @ https://github.com/sauravmishra1710/Face-Mask-Detection
-  - Heart Failure Prediction @ https://github.com/sauravmishra1710/Heart-Failure-Prediction
 
 
 ### 📫 Reach me @ :email:
