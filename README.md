@@ -8,9 +8,9 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 
 - 👯 Open to collaborate on ***AI for Medicine and Healthcare.***
 
-<h1 align="center">Peer Reviewed Publications</h2>
+<h1 align="center">Peer Reviewed Publications</h1>
 
-| Paper Title  | Link to the Paper | Source Code |
+| <h4 align="center">Paper Title</h4>  | <h4 align="center">Paper Link</h4>  | <h4 align="center">Source Code</h4>  |
 | ------------- | ------------- | ------------- |
 | **1. A Comparative Study for Time-to-Event Analysis and Survival Prediction for Heart Failure Condition using Machine Learning Techniques.** The paper is published in the July 2022 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.  | [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/225/94)  |  [Python Source Code](https://github.com/sauravmishra1710/Heart-Failure-Condition-And-Survival-Analysis)  |
 | **2. Artificial Intelligence: A Review of Progress and Prospects in Medicine and Healthcare**. The paper is published in the January 2022 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.  | [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/180/80)  |  NA  |
