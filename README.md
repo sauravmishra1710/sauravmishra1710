@@ -56,6 +56,50 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
   </tbody>
 </table>
 
+<h2 align="center">Coding Repositories</h2>
+
+<table border="0" style="margin-top:30px; border:0px; " class="mt-4">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/sauravmishra1710/Malaria-Detection-Using-Deep-Learning-Techniques" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Malaria-Detection-Using-Deep-Learning-Techniques" /> </a>
+        </td>
+<!--         <td  align="center">
+            <a href="https://github.com/edaaydinea/LeetCode" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=LeetCode" /> </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/edaaydinea/Coderbyte" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Coderbyte" /> </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/edaaydinea/Codility" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Codility" /> </a>
+        </td> 
+        <td align="center">
+            <a href="https://github.com/edaaydinea/Exercism" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Exercism" /> </a>
+        </td>
+      <td align="center">
+            <a href="https://github.com/edaaydinea/Hackerearth" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Hackerearth" /> </a>
+        </td>
+    </tr>
+    <tr>  
+        <td align="center">
+            <a href="https://github.com/edaaydinea/Studytonight" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Studytonight" /> </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/edaaydinea/Codewars" target="_blank">
+    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Codewars" /> </a>
+        </td> 
+    </tr>  -->
+</table>
+
+
  ### ⚡ Fun fact ⚡
 
 :camera: Enthusiast Photographer :camera:
