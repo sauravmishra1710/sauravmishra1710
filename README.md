@@ -17,8 +17,18 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 | **3. Malaria Parasite Detection using Efficient Neural Ensembles**. The paper is published in the October 2021 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.  | [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/147/75)| [Python Source Code](https://github.com/sauravmishra1710/Malaria-Detection-Using-Deep-Learning-Techniques)  |
 
 <br>
-<h2 align="center">👨‍💻 Recently Created Repositories 👨‍💻</h2>
+<!-- <h2 align="center">👨‍💻 Recently Created Repositories 👨‍💻</h2>
 
+<table border="0" style="margin-top:30px; border:0px; " class="mt-4">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/sauravmishra1710/Heart-Failure-Condition-And-Survival-Analysis" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Heart-Failure-Condition-And-Survival-Analysis" /> </a>
+        </td>
+  </tr>
+  </table> -->
+  
+  
   - Heart Failure Survival Analysis & Prediction @ https://github.com/sauravmishra1710/Heart-Failure-Condition-And-Survival-Analysis
   - Batch-Normalization-and-Internal-Covariate-Shift @ https://github.com/sauravmishra1710/Batch-Normalization-and-Internal-Covariate-Shift
   - Inception---Going-Deeper-with-Convolutions @ https://github.com/sauravmishra1710/Inception---Going-Deeper-with-Convolutions
@@ -39,64 +49,6 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 <a href="https://twitter.com/forevrManUtd" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/twitter.svg" alt="@forevrManUtd" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saurav-mishra1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/linkedin.svg" alt="https://www.linkedin.com/in/saurav-mishra1710/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saurav.mishra1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>        <a href="https://www.instagram.com/flashyfilters.saurav1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>
-
-<table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
-  <hr />
-  <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Read.Me Stats</h2>
-  <tbody>  
-    <tr>
-        <td style="width: 441;" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravmishra1710&theme=dracula&layout=compact&langs_count=10" />
-        </td>
-        <td style="width: 441;" align="center" >
-            <img src="https://github-readme-stats.vercel.app/api?username=sauravmishra1710&count_private=true&show_icons=true&theme=dracula"/>
-        </td> 
-    </tr>
-  </tbody>
-</table>
-
-
-
-<table border="0" style="margin-top:30px; border:0px; " class="mt-4">
-    <tr>
-        <td align="center">
-            <a href="https://github.com/sauravmishra1710/Malaria-Detection-Using-Deep-Learning-Techniques" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Malaria-Detection-Using-Deep-Learning-Techniques" /> </a>
-        </td>
-<!--         <td  align="center">
-            <a href="https://github.com/edaaydinea/LeetCode" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=LeetCode" /> </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/edaaydinea/Coderbyte" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Coderbyte" /> </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/edaaydinea/Codility" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Codility" /> </a>
-        </td> 
-        <td align="center">
-            <a href="https://github.com/edaaydinea/Exercism" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Exercism" /> </a>
-        </td>
-      <td align="center">
-            <a href="https://github.com/edaaydinea/Hackerearth" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Hackerearth" /> </a>
-        </td>
-    </tr>
-    <tr>  
-        <td align="center">
-            <a href="https://github.com/edaaydinea/Studytonight" target="_blank">
-    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Studytonight" /> </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/edaaydinea/Codewars" target="_blank">
-    <img src="https://github-readme-stats-lake-nine.vercel.app/api/pin/?username=edaaydinea&theme=dracula&repo=Codewars" /> </a>
-        </td> 
-    </tr>  -->
-</table>
 
 
  ### ⚡ Fun fact ⚡
