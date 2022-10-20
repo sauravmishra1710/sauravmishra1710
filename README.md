@@ -16,7 +16,8 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 | **2. Artificial Intelligence: A Review of Progress and Prospects in Medicine and Healthcare**. The paper is published in the January 2022 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.  | [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/180/80)  |  NA  |
 | **3. Malaria Parasite Detection using Efficient Neural Ensembles**. The paper is published in the October 2021 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.  | [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/147/75)| [Python Source Code](https://github.com/sauravmishra1710/Malaria-Detection-Using-Deep-Learning-Techniques)  |
 
-### 👨‍💻 Recently Created Repositories 👨‍💻
+<br>
+<h2 align="center">👨‍💻 Recently Created Repositories 👨‍💻</h2>
 
   - Heart Failure Survival Analysis & Prediction @ https://github.com/sauravmishra1710/Heart-Failure-Condition-And-Survival-Analysis
   - Batch-Normalization-and-Internal-Covariate-Shift @ https://github.com/sauravmishra1710/Batch-Normalization-and-Internal-Covariate-Shift
@@ -54,7 +55,7 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
   </tbody>
 </table>
 
-<h2 align="center">Coding Repositories</h2>
+
 
 <table border="0" style="margin-top:30px; border:0px; " class="mt-4">
     <tr>
