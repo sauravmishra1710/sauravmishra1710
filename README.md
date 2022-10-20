@@ -39,6 +39,20 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
   - Covid-19 Detection using Chest X-Rays @ https://github.com/sauravmishra1710/Covid-19-Detection-using-Deep-Learning
   - Face Mask Detection @ https://github.com/sauravmishra1710/Face-Mask-Detection
 
+<table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
+  <hr />
+  <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Read.Me Stats</h2>
+  <tbody>  
+    <tr>
+        <td style="width: 441;" align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravmishra1710&theme=dracula&layout=compact&langs_count=10" />
+        </td>
+        <td style="width: 441;" align="center" >
+            <img src="https://github-readme-stats.vercel.app/api?username=sauravmishra1710&count_private=true&show_icons=true&theme=dracula"/>
+        </td> 
+    </tr>
+  </tbody>
+</table>
 
 ### 📫 Reach me @ :email:
 
