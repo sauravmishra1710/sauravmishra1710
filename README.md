@@ -17,7 +17,7 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 | **3. Malaria Parasite Detection using Efficient Neural Ensembles**. The paper is published in the October 2021 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.  | [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/147/75)| [Python Source Code](https://github.com/sauravmishra1710/Malaria-Detection-Using-Deep-Learning-Techniques)  |
 
 <br>
-<!-- <h2 align="center">👨‍💻 Recently Created Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Recently Created Repositories 👨‍💻</h2>
 
 <table border="0" style="margin-top:30px; border:0px; " class="mt-4">
     <tr>
@@ -26,10 +26,9 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Heart-Failure-Condition-And-Survival-Analysis" /> </a>
         </td>
   </tr>
-  </table> -->
+  </table>
   
   
-  - Heart Failure Survival Analysis & Prediction @ https://github.com/sauravmishra1710/Heart-Failure-Condition-And-Survival-Analysis
   - Batch-Normalization-and-Internal-Covariate-Shift @ https://github.com/sauravmishra1710/Batch-Normalization-and-Internal-Covariate-Shift
   - Inception---Going-Deeper-with-Convolutions @ https://github.com/sauravmishra1710/Inception---Going-Deeper-with-Convolutions
   - UNet++ - Nested UNet for Bio-Meidcal Image Segmentation of Brain Tumors @ https://github.com/sauravmishra1710/UNet-Plus-Plus---Brain-Tumor-Segmentation
