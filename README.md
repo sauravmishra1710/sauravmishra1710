@@ -1,12 +1,14 @@
 ### Hi there 🙋‍♂️ 👨🏼‍💻
 
-I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the healthcare IT domain. Very much keen to work & contribute to the AI and Computer Vision space in the Healthcare domain. :construction_worker: :hospital:
+I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in the healthcare IT domain. Very much keen to work & contribute to the AI and Computer Vision space in the Healthcare domain. :construction_worker: :hospital:
 
 - :books: :notebook: I’m currently learning Python GUI, Deep Learning and Computer Vision for Medicine & Healthcare Domain, continuously upgrading and enhancing skills on Algorithms. :nerd_face: 🐱‍👓
 
 - :computer: Intrested in ***AI (Deep Learning & Computer Vision) for Medicine and Healthcare*** 👨🏼‍💻
 
 - 👯 Open to collaborate on ***AI for Medicine and Healthcare.***
+
+<!-- ---------------------------------------------------------NEW SECTION--------------------------------------------------------------------------------------- -->
 
 <h1 align="center">Peer Reviewed Publications</h1>
 
@@ -17,6 +19,7 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 | **3. Malaria Parasite Detection using Efficient Neural Ensembles**. The paper is published in the October 2021 issue as part of the Journal of Electronics, Electromedical Engineering, and Medical Informatics.  | [Read Online](http://jeeemi.org/index.php/jeeemi/article/view/147/75)| [Python Source Code](https://github.com/sauravmishra1710/Malaria-Detection-Using-Deep-Learning-Techniques)  |
 
 <br>
+<!-- ---------------------------------------------------------NEW SECTION--------------------------------------------------------------------------------------- -->
 <h2 align="center">👨‍💻 Recently Created Repositories 👨‍💻</h2>
 
 <table border="0" style="margin-top:30px; border:0px; " class="mt-4">
@@ -63,7 +66,7 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
         </td>
   </tr>
   </table>
-  
+<!-- ---------------------------------------------------------NEW SECTION--------------------------------------------------------------------------------------- -->
   
 <table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
   <hr />
@@ -80,6 +83,8 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
   </tbody>
 </table>
 
+<!-- ---------------------------------------------------------NEW SECTION--------------------------------------------------------------------------------------- -->
+
 ### 📫 Reach me @ :email:
 
 <a href="" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/mail-1008.svg" height="30" width="40" /></a>
@@ -90,6 +95,7 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
 <a href="https://www.linkedin.com/in/saurav-mishra1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/linkedin.svg" alt="https://www.linkedin.com/in/saurav-mishra1710/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saurav.mishra1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>        <a href="https://www.instagram.com/flashyfilters.saurav1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>
 
+<!-- ---------------------------------------------------------NEW SECTION--------------------------------------------------------------------------------------- -->
 
  ### ⚡ Fun fact ⚡
 
