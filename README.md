@@ -40,8 +40,8 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=UNet-Plus-Plus---Brain-Tumor-Segmentation" /> </a>
         </td>
         <td align="center">
-            <a href="https://github.com/sauravmishra1710/Batch-Normalization-and-Internal-Covariate-Shift" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Batch-Normalization-and-Internal-Covariate-Shift" /> </a>
+            <a href="https://github.com/sauravmishra1710/Bio-Medical-Image-Analysis-with-DICOMs" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Bio-Medical-Image-Analysis-with-DICOMs" /> </a>
         </td>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/Inception---Going-Deeper-with-Convolutions" target="_blank">
@@ -51,8 +51,6 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
   </table>
   
   
-  - UNet++ - Nested UNet for Bio-Meidcal Image Segmentation of Brain Tumors @ https://github.com/sauravmishra1710/UNet-Plus-Plus---Brain-Tumor-Segmentation
-  - Bio-Medical Image Analysis using DICOMs @ https://github.com/sauravmishra1710/Bio-Medical-Image-Analysis-with-DICOMs
   - EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM @ https://github.com/sauravmishra1710/EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM
   - U-Net---Biomedical-Image-Segmentation @ https://github.com/sauravmishra1710/U-Net---Biomedical-Image-Segmentation
   - Covid-19 Detection using Chest X-Rays @ https://github.com/sauravmishra1710/Covid-19-Detection-using-Deep-Learning
