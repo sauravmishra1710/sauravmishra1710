@@ -54,21 +54,17 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=U-Net---Biomedical-Image-Segmentation" /> </a>
         </td>
         <td align="center">
-            <a href="https://github.com/sauravmishra1710/Bio-Medical-Image-Analysis-with-DICOMs" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Bio-Medical-Image-Analysis-with-DICOMs" /> </a>
+            <a href="https://github.com/sauravmishra1710/Covid-19-Detection-using-Deep-Learning" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Covid-19-Detection-using-Deep-Learning" /> </a>
         </td>
         <td align="center">
-            <a href="https://github.com/sauravmishra1710/EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" /> </a>
+            <a href="https://github.com/sauravmishra1710/Face-Mask-Detection" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Face-Mask-Detection" /> </a>
         </td>
   </tr>
   </table>
   
   
-  - U-Net---Biomedical-Image-Segmentation @ https://github.com/sauravmishra1710/U-Net---Biomedical-Image-Segmentation
-  - Covid-19 Detection using Chest X-Rays @ https://github.com/sauravmishra1710/Covid-19-Detection-using-Deep-Learning
-  - Face Mask Detection @ https://github.com/sauravmishra1710/Face-Mask-Detection
-
 <table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
   <hr />
   <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Read.Me Stats</h2>
