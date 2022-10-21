@@ -48,6 +48,20 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" /> </a>
         </td>
   </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/sauravmishra1710/U-Net---Biomedical-Image-Segmentation" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=U-Net---Biomedical-Image-Segmentation" /> </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/sauravmishra1710/Bio-Medical-Image-Analysis-with-DICOMs" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Bio-Medical-Image-Analysis-with-DICOMs" /> </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/sauravmishra1710/EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" /> </a>
+        </td>
+  </tr>
   </table>
   
   
