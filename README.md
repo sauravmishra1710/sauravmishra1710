@@ -44,14 +44,13 @@ I'm Saurav! I'm a Senior Software Engineer majorly working in C#.Net and in the 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Bio-Medical-Image-Analysis-with-DICOMs" /> </a>
         </td>
         <td align="center">
-            <a href="https://github.com/sauravmishra1710/Inception---Going-Deeper-with-Convolutions" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Inception---Going-Deeper-with-Convolutions" /> </a>
+            <a href="https://github.com/sauravmishra1710/EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" /> </a>
         </td>
   </tr>
   </table>
   
   
-  - EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM @ https://github.com/sauravmishra1710/EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM
   - U-Net---Biomedical-Image-Segmentation @ https://github.com/sauravmishra1710/U-Net---Biomedical-Image-Segmentation
   - Covid-19 Detection using Chest X-Rays @ https://github.com/sauravmishra1710/Covid-19-Detection-using-Deep-Learning
   - Face Mask Detection @ https://github.com/sauravmishra1710/Face-Mask-Detection
