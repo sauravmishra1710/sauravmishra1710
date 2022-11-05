@@ -2,7 +2,7 @@
 
 I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in the healthcare IT domain. Very much keen to work & contribute to the AI and Computer Vision space in the Healthcare domain. :construction_worker: :hospital:
 
-- :books: :notebook: I’m currently learning Python GUI, Deep Learning and Computer Vision for Medicine & Healthcare Domain, continuously upgrading and enhancing skills on Algorithms. :nerd_face: 🐱‍👓
+- :books: :notebook: I’m currently learning Python GUI, Deep Learning and Computer Vision for Medicine & Healthcare Domain. :nerd_face: 🐱‍👓
 
 - :computer: Intrested in ***AI (Deep Learning & Computer Vision) for Medicine and Healthcare*** 👨🏼‍💻
 
