@@ -68,7 +68,8 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
         </td>
   </tr>
   </table>
-<!-- ---------------------------------------------------------NEW SECTION--------------------------------------------------------------------------------------- -->
+  
+<!-- -------------------------------------------------------------------NEW SECTION------------------------------------------------------------------- -->
   
 <table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
   <hr />
@@ -85,7 +86,7 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
   </tbody>
 </table>
 
-<!-- ---------------------------------------------------------NEW SECTION--------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------NEW SECTION------------------------------------------------------------------- -->
 
 ### 📫 Reach me @ :email:
 
@@ -97,7 +98,7 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
 <a href="https://www.linkedin.com/in/saurav-mishra1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/linkedin.svg" alt="https://www.linkedin.com/in/saurav-mishra1710/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saurav.mishra1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>        <a href="https://www.instagram.com/flashyfilters.saurav1710/" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/instagram.svg" height="30" width="40" /></a>
 
-<!-- ---------------------------------------------------------NEW SECTION--------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------NEW SECTION------------------------------------------------------------------- -->
 
  ### ⚡ Fun fact ⚡
 
