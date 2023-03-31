@@ -71,21 +71,6 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
   
 <!-- -------------------------------------------------------------------NEW SECTION------------------------------------------------------------------- -->
   
-<table border="0" style="margin-top:30px; border:0px; width: 882;" class="mt-4">
-  <hr />
-  <h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Read.Me Stats</h2>
-  <tbody>  
-    <tr>
-        <td style="width: 441;" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravmishra1710&theme=dracula&layout=compact&langs_count=10" />
-        </td>
-        <td style="width: 441;" align="center" >
-            <img src="https://github-readme-stats.vercel.app/api?username=sauravmishra1710&count_private=true&show_icons=true&theme=dracula"/>
-        </td> 
-    </tr>
-  </tbody>
-</table>
-
 <!-- -------------------------------------------------------------------NEW SECTION------------------------------------------------------------------- -->
 
 ### 📫 Reach me @ :email:
