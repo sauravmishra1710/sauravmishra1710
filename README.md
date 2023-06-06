@@ -28,15 +28,15 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
     <tr>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/Heart-Failure-Condition-And-Survival-Analysis" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Heart-Failure-Condition-And-Survival-Analysis" /> </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Heart-Failure-Condition-And-Survival-Analysis" /> </a>
         </td>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/Batch-Normalization-and-Internal-Covariate-Shift" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Batch-Normalization-and-Internal-Covariate-Shift" /> </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Batch-Normalization-and-Internal-Covariate-Shift" /> </a>
         </td>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/Inception---Going-Deeper-with-Convolutions" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Inception---Going-Deeper-with-Convolutions" /> </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Inception---Going-Deeper-with-Convolutions" /> </a>
         </td>
   </tr>
     <tr>
