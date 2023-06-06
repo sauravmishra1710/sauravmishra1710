@@ -42,15 +42,15 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
     <tr>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/UNet-Plus-Plus---Brain-Tumor-Segmentation" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=UNet-Plus-Plus---Brain-Tumor-Segmentation" /> </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=UNet-Plus-Plus---Brain-Tumor-Segmentation" /> </a>
         </td>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/Bio-Medical-Image-Analysis-with-DICOMs" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Bio-Medical-Image-Analysis-with-DICOMs" /> </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Bio-Medical-Image-Analysis-with-DICOMs" /> </a>
         </td>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" /> </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" /> </a>
         </td>
   </tr>
     <tr>
