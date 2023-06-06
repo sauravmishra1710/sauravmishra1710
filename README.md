@@ -56,15 +56,15 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
     <tr>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/U-Net---Biomedical-Image-Segmentation" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=U-Net---Biomedical-Image-Segmentation" /> </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=U-Net---Biomedical-Image-Segmentation" /> </a>
         </td>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/Covid-19-Detection-using-Deep-Learning" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Covid-19-Detection-using-Deep-Learning" /> </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Covid-19-Detection-using-Deep-Learning" /> </a>
         </td>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/Face-Mask-Detection" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Face-Mask-Detection" /> </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Face-Mask-Detection" /> </a>
         </td>
   </tr>
   </table>
