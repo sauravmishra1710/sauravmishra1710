@@ -10,7 +10,7 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
 
 <!-- -------------------------------------------------------------------NEW SECTION------------------------------------------------------------------- -->
 
-<h1 align="center">Peer Reviewed Publications</h1>
+<h1 align="center">Peer Reviewed Journal Publications</h1>
 
 | <h4 align="center">Paper Title</h4>  | <h4 align="center">Paper Link</h4>  | <h4 align="center">Source Code</h4>  |
 | ------------- | ------------- | ------------- |
