@@ -27,20 +27,23 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
 <table border="0" style="margin-top:30px; border:0px; " class="mt-4">
     <tr>
         <td align="center">
+            <a href="https://github.com/sauravmishra1710/Saurav.Hello.World" target="_blank">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Saurav.Hello.World" /> </a>
+        </td>
+        <td align="center">
             <a href="https://github.com/sauravmishra1710/Image-Classification-with-React-and-Tensorflow-js" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Image-Classification-with-React-and-Tensorflow-js" /> </a>
         </td>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/Heart-Failure-Condition-And-Survival-Analysis" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Heart-Failure-Condition-And-Survival-Analysis" /> </a>
-        </td>
-        <td align="center">
+        </td>        
+  </tr>
+    <tr>
+         <td align="center">
             <a href="https://github.com/sauravmishra1710/Batch-Normalization-and-Internal-Covariate-Shift" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Batch-Normalization-and-Internal-Covariate-Shift" /> </a>
         </td>
-        
-  </tr>
-    <tr>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/Inception---Going-Deeper-with-Convolutions" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Inception---Going-Deeper-with-Convolutions" /> </a>
@@ -49,12 +52,12 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
             <a href="https://github.com/sauravmishra1710/UNet-Plus-Plus---Brain-Tumor-Segmentation" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=UNet-Plus-Plus---Brain-Tumor-Segmentation" /> </a>
         </td>
-        <td align="center">
+  </tr>
+    <tr>
+         <td align="center">
             <a href="https://github.com/sauravmishra1710/Bio-Medical-Image-Analysis-with-DICOMs" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Bio-Medical-Image-Analysis-with-DICOMs" /> </a>
         </td>
-  </tr>
-    <tr>
         <td align="center">
             <a href="https://github.com/sauravmishra1710/EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=EXPLAINABLE-AI---Skin-Cancer-Detection-explained-with-GRADCAM" /> </a>
@@ -62,10 +65,6 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
         <td align="center">
             <a href="https://github.com/sauravmishra1710/U-Net---Biomedical-Image-Segmentation" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=U-Net---Biomedical-Image-Segmentation" /> </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/sauravmishra1710/Covid-19-Detection-using-Deep-Learning" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sauravmishra1710&theme=dracula&repo=Covid-19-Detection-using-Deep-Learning" /> </a>
         </td>
   </tr>
   </table>
