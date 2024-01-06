@@ -1,12 +1,14 @@
 ### Hi there 🙋‍♂️ 👨🏼‍💻
 
-I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in the healthcare IT domain. Very much keen to work & contribute to the AI and Computer Vision space in the Healthcare domain. :construction_worker: :hospital:
+I'm Saurav! I'm a Software Engineer-IV majorly working in React JS, C#.Net in the healthcare domain. Very much keen to work & contribute to the AI and Computer Vision space in the Healthcare domain. :construction_worker: :hospital:
 
 - :books: :notebook: I’m currently learning React JS, Python GUI, Deep Learning and Computer Vision for Medicine & Healthcare Domain. :nerd_face: 🐱‍👓
 
 - :computer: Intrested in ***AI (Deep Learning & Computer Vision) for Medicine and Healthcare*** 👨🏼‍💻
 
 - 👯 Open to collaborate on ***AI for Medicine and Healthcare.***
+
+### My Personal Web Space: [Saurav.Hello.World](https://saurav-hello-world.netlify.app/)
 
 <!-- -------------------------------------------------------------------NEW SECTION------------------------------------------------------------------- -->
 
@@ -76,7 +78,7 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in C#.Net, React JS in th
 ### 📫 Reach me @ :email:
 
 <a href="" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/mail-1008.svg" height="30" width="40" /></a>
- @ saurav.mishra@live.com 
+ @ <a href="mailto:saurav.mishra@live.com">saurav.mishra@live.com</a>
  
 <a href="https://www.kaggle.com/sauravmishra1710" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/kaggle_icon.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/forevrManUtd" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/twitter.svg" alt="@forevrManUtd" height="30" width="40" /></a>
