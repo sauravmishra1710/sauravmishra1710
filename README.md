@@ -2,7 +2,7 @@
 
 I'm Saurav! I'm a Software Engineer-IV majorly working in React JS, C#.Net in the healthcare domain. Very much keen to work & contribute to the AI and Computer Vision space in the Healthcare domain. :construction_worker: :hospital:
 
-- :books: :notebook: I’m currently learning React JS, Python GUI, Deep Learning and Computer Vision for Medicine & Healthcare Domain. :nerd_face: 🐱‍👓
+- :books: :notebook: I’m currently learning React JS, Ruby on Rails, Python GUI, Deep Learning and Computer Vision for Medicine & Healthcare Domain. :nerd_face: 🐱‍👓
 
 - :computer: Intrested in ***AI (Deep Learning & Computer Vision) for Medicine and Healthcare*** 👨🏼‍💻
 
@@ -72,10 +72,14 @@ I'm Saurav! I'm a Software Engineer-IV majorly working in React JS, C#.Net in th
   </table>
   
 <!-- -------------------------------------------------------------------NEW SECTION------------------------------------------------------------------- -->
+
+<h1 align="center">👨‍💻 Reacting to React 👨‍💻</h1>
+
+My experiments with learning & building various smaller react components...
   
 <!-- -------------------------------------------------------------------NEW SECTION------------------------------------------------------------------- -->
 
-### 📫 Reach me @ :email:
+## 📫 Reach me @ :email:
 
 <a href="" target="blank"><img align="center" src="https://github.com/sauravmishra1710/sauravmishra1710/blob/main/social-icons-main/mail-1008.svg" height="30" width="40" /></a>
  @ <a href="mailto:saurav.mishra@live.com">saurav.mishra@live.com</a>
